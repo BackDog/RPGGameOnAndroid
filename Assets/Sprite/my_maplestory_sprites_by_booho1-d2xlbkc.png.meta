@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: f29e379442f95f744ab76dac21c52d91
+timeCreated: 1435735508
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stand
+    21300002: run1
+    21300004: run2
+    21300006: run3
+    21300008: run4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stand
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 250
+        width: 89
+        height: 99
+      alignment: 9
+      pivot: {x: .461260855, y: .461663127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 152
+        width: 94
+        height: 91
+      alignment: 9
+      pivot: {x: .46559304, y: .389385849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run2
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 152
+        width: 112
+        height: 91
+      alignment: 9
+      pivot: {x: .438898355, y: .364790708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 60
+        width: 94
+        height: 93
+      alignment: 9
+      pivot: {x: .476875454, y: .416524261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run4
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 50
+        width: 98
+        height: 101
+      alignment: 9
+      pivot: {x: .415818185, y: .470297724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
